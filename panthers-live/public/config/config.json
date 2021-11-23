@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+    "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+    "NETWORK": {
+      "NAME": "Avalanche Mainnet C-Chain",
+      "SYMBOL": "AVAX",
+      "ID": 43114
+    },
+    "NFT_NAME": "Peaky Panthers",
+    "SYMBOL": "Peaky Panther",
+    "MAX_SUPPLY": 8888,
+    "WEI_COST": 75000000000000000,
+    "DISPLAY_COST": 0.99,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Opeansea",
+    "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+    "SHOW_BACKGROUND": true
+}
+  
