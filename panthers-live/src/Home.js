@@ -388,7 +388,7 @@ function Home() {
                         }}
                     >
                         Please make sure you are connected to the right network (
-                        {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
+                        {CONFIG.NETWORK.NAME} ) and the correct address. Please note:
                         Once you make the purchase, you cannot undo this action.
                         Welcome to the Peaky Panthers community!
                     </s.TextDescription>
