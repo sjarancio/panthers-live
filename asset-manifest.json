@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pp-site-beta/static/css/main.fb04c8bb.chunk.css",
+    "main.js": "/pp-site-beta/static/js/main.e44b9c02.chunk.js",
+    "main.js.map": "/pp-site-beta/static/js/main.e44b9c02.chunk.js.map",
+    "runtime-main.js": "/pp-site-beta/static/js/runtime-main.bb13f98f.js",
+    "runtime-main.js.map": "/pp-site-beta/static/js/runtime-main.bb13f98f.js.map",
+    "static/css/2.2e99a83d.chunk.css": "/pp-site-beta/static/css/2.2e99a83d.chunk.css",
+    "static/js/2.2cb3c074.chunk.js": "/pp-site-beta/static/js/2.2cb3c074.chunk.js",
+    "static/js/2.2cb3c074.chunk.js.map": "/pp-site-beta/static/js/2.2cb3c074.chunk.js.map",
+    "static/js/3.0805458a.chunk.js": "/pp-site-beta/static/js/3.0805458a.chunk.js",
+    "static/js/3.0805458a.chunk.js.map": "/pp-site-beta/static/js/3.0805458a.chunk.js.map",
+    "index.html": "/pp-site-beta/index.html",
+    "static/css/2.2e99a83d.chunk.css.map": "/pp-site-beta/static/css/2.2e99a83d.chunk.css.map",
+    "static/css/main.fb04c8bb.chunk.css.map": "/pp-site-beta/static/css/main.fb04c8bb.chunk.css.map",
+    "static/js/2.2cb3c074.chunk.js.LICENSE.txt": "/pp-site-beta/static/js/2.2cb3c074.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/pp-site-beta/static/media/font.617a0a92.woff",
+    "static/media/school.234db155.svg": "/pp-site-beta/static/media/school.234db155.svg",
+    "static/media/webBanner1.6a37ecf7.jpg": "/pp-site-beta/static/media/webBanner1.6a37ecf7.jpg",
+    "static/media/work.234db155.svg": "/pp-site-beta/static/media/work.234db155.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb13f98f.js",
+    "static/css/2.2e99a83d.chunk.css",
+    "static/js/2.2cb3c074.chunk.js",
+    "static/css/main.fb04c8bb.chunk.css",
+    "static/js/main.e44b9c02.chunk.js"
+  ]
+}
